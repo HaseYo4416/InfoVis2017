@@ -1,0 +1,23 @@
+<html>
+  <head>
+    <title>task:min,mid,max </title>
+  </head>
+  <body>
+    <script>
+      function min(){
+      if(a>b){
+      if(b>c){
+      return c;}
+      else{
+      return
+      var x=5,y=4,z=8;
+      var v= new Vec3(x,y,z);
+      var min = v.min();
+      var mid = v.mid();
+      var max = v.max();
+      document.write(min);
+      document.write(mid);
+      document.write(max);
+    </script>
+  </body>    
+</html>
