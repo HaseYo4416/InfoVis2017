@@ -4,6 +4,9 @@
   </head>
   <body>
     <script>
+    document.write("Inputs:x=5 y=4 z=8");
+    </script>
+    <script>
       function min(){
       if(this.a>this.b){
       if(this.b>this.c){
