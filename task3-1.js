@@ -67,6 +67,10 @@ function main(){
     geometry.vertices.push( v1 );
     geometry.vertices.push( v2 );
     geometry.vertices.push( v3 );
+    geometry.vertices.push( v4 );
+    geometry.vertices.push( v5 );
+    geometry.vertices.push( v6 );
+    geometry.vertices.push( v7 );
 
     var material= new THREE.MeshBasicMaterial();
     material.vertexColors =THREE.FaceColors;
